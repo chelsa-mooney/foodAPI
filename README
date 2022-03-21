@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 foodAPI
 
 A simple recipe search by ingredient(s). 
@@ -5,3 +6,7 @@ A simple recipe search by ingredient(s).
 Spoontacular API 
 
 Reference requirement.txt for dependencies 
+=======
+Spoonacular API
+python 
+>>>>>>> 38fa8384dbbb1bbe6d95fdef8bd4db92b6461004
